@@ -1,0 +1,29 @@
+_repo: The-Oxford-Degree-Ceremony_31408
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wells, J. (Joseph)
+    alias: Wells, Joseph
+    birthdate: 1855
+    deathdate: 1929
+    gutenberg_agent_id: '4952'
+    url: http://www.gutenberg.org/2009/agents/4952
+description: ''
+gutenberg_issued: '2010-02-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31408'
+  lccn: '07011557'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'University of Oxford -- Degrees'
+- !lcc 'LF'
+- !lcsh 'Degrees, Academic'
+title: The Oxford Degree Ceremony
+url: http://www.gutenberg.org/ebooks/31408
